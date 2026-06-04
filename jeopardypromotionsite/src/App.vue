@@ -278,8 +278,7 @@ const submitRequest = () => {
         <p class="eyebrow">Booking Details</p>
         <h2 id="booking-title">Pick a date and tell us a bit about the party</h2>
         <p>
-          The calendar below is driven by a simple availability map in code today. Swap that object
-          for an API response later and the UI will keep working.
+          Fill out an interest form and our team will respond within 24 hours to confirm. Please note that we recommend at least two weeks notice for any custom requests.
         </p>
       </div>
 
