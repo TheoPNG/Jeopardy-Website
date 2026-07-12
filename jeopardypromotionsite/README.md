@@ -1,5 +1,16 @@
-# Vue 3 + TypeScript + Vite
+# Peril! promotional site
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A plain static website made with HTML, CSS, and a tiny amount of vanilla JavaScript.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+## Run locally
+
+You can open `index.html` directly in a browser. For local development with a basic web server:
+
+```sh
+python3 -m http.server 8000
+```
+
+Then visit http://localhost:8000.
+
+Before publishing, replace the placeholder booking email and phone number in `index.html`.
+
